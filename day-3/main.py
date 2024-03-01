@@ -1,5 +1,5 @@
 print('''
-     .WWWW.
+            .WWWW.
           WWWW""'
         .WWWW O O
      .WWWW"WW.'-.
